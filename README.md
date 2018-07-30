@@ -1,2 +1,2 @@
 # Bamazon
-![Customer View]()
+![Customer View](customerview.gif);
