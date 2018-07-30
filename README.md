@@ -8,14 +8,14 @@ Bamazon is an Amazon like node.js storefront CLI application that will take in o
 
 Customer View will return all items in the store inventory, as well as give the option to purchase an item and what quantity.  If there is not sufficient quantity in stock the Customer will be asked to try again.  If successful the customer will then be given a total cost for their order.
 
-###Here is an example of the Customer View
+## Here is an example of the Customer View
 ---
 
 
-![Customer View](customerView.gif)
+![Customer View](customerviews.gif)
 
 ---
-##Manager View
+## Manager View
 ---
 Manager View will prompy the user with 5 options to choose from, 
 
@@ -29,7 +29,7 @@ Manager View will prompy the user with 5 options to choose from,
 4. Add New Product
     * This allows manager to add a new product to the inventory database.
 ---
-###Here is an example of the Manager View
+## Here is an example of the Manager View
 ---
 ![Manager View](managerView.gif)
 
